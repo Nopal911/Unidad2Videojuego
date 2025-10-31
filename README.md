@@ -30,7 +30,7 @@ Aquí encontrarás los tutoriales realizados paso a paso en Unity 🕹️.
 ## ✨ Autor
 
 **Alejandro Hernández González**  
-[GitHub Profile](https://github.com/Nopal911)
+[GitHub Perfil](https://github.com/Nopal911)
 
 ---
 
